@@ -1,0 +1,153 @@
+.title{
+    width: 100%;
+    height: 110px;
+    border: 1px solid #ffffff;
+}
+.title_img{
+    width: 230px;
+    height: 50px;
+    text-align: center;
+    border-right: 2px solid #b0b0b0;
+    padding-left: 300px;
+    margin-top: 25px;
+    float: left;
+}
+.title_welcom{
+    line-height: 110px;
+    text-indent: 20px;
+    color: #b0b0b0;
+    float: left;
+    font-size: 20px;
+}
+.register_bgc{
+    width: 100%;
+    height: 1000px;
+    background-color: #f6f6f6;
+    overflow: hidden;
+}
+.register_form{
+    width: 750px;
+    height: 850px;
+    border-top: 2px solid#2b8551 ;
+    background-color: #ffffff;
+    margin:0 auto;
+    margin-top: 35px;
+    
+}
+.register_form h3{
+    height: 100px;
+    width: 100px;
+    line-height: 100px;
+    margin: 0 auto;
+    font-size: 25px;
+    text-align: center;
+    font-weight: normal;
+}
+.register_title{
+    width: 380px;
+    height: 590px;
+    margin: 0 auto;
+    overflow: hidden;
+    margin-bottom: 30px;   
+}
+
+.register_name{
+    margin-top: 13px;
+    line-height: 35px;
+    border: 1px solid#2b8551;
+}
+.register_name .a{
+    width: 33px;
+    height: 35px;
+    float: left;
+    text-align: center;
+    color:#2b8551;
+}
+.name1{
+    text-indent: 15px;
+    line-height: 35px;
+    border-left: 1px solid#2b8551;
+    float: left;
+}
+.tips{
+    font-size: 12px;
+    line-height: 30px;
+    color:#2b8551;
+}
+.register_password{
+    width: 378px;
+    height: 35px;
+    margin-top: 13px;
+    line-height: 35px;
+    border: 1px solid #bbbbbb;
+}
+.register_password .a{
+    width: 33px;
+    height: 35px;
+    float: left;
+    text-align: center;
+    background-color: #f1f1f1;
+    border-right: 1px solid #bbbbbb;
+}
+.codebox{
+    width: 278px;
+    height: 35px;
+    margin-top: 13px;
+    line-height: 35px;
+}
+
+.register_code{
+    width: 208px;
+    height: 35px;
+    line-height: 35px;
+    border: 1px solid #bbbbbb;
+    float: left;
+    text-indent: 15px;
+}
+.yzm{
+    width: 65px;
+    height: 37px;
+    line-height: 37px;
+    float: right;
+    background-color:#2b8551;
+}
+.yzm img{
+    width: 65px;
+    height: 37px;
+}
+.button{
+    width: 385px;
+    height: 45px;    
+    background-color: #2b8551;
+    margin:0 auto;
+    display: block;
+    color: #ffffff;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+}
+.login{
+    width: 200px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+.foot{
+    width: 100%;
+    font-size: 12px;
+}
+.foot .text1{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+}
+.foot .text2{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 40px;
+}
